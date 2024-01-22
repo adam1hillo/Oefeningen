@@ -1,6 +1,11 @@
-package be.vdab.jpfhfdst13.voorwerpen;
+package be.vdab;
 
-public class Main {
+import be.vdab.util.Voorwerp;
+import be.vdab.voorwerpen.Boekenrek;
+import be.vdab.voorwerpen.LeesBoek;
+import be.vdab.voorwerpen.WoordenBoek;
+
+public class Hoofdprogramma {
     public static void main(String[] args) {
 
         Voorwerp[] voorwerpen = new Voorwerp[6];

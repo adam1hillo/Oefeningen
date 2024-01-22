@@ -1,6 +1,8 @@
-package be.vdab.jpfhfdst13.voorwerpen;
+package be.vdab.voorwerpen;
 
-public class Boekenrek implements Voorwerp{
+import be.vdab.util.Voorwerp;
+
+public class Boekenrek implements Voorwerp {
 
     private int hoogte = 0;
     private int breedte = 0;

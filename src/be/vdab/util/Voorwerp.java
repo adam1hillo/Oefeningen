@@ -1,4 +1,4 @@
-package be.vdab.jpfhfdst13.voorwerpen;
+package be.vdab.util;
 
 public interface Voorwerp {
 

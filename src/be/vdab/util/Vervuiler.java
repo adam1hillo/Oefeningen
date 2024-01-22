@@ -1,4 +1,4 @@
-package be.vdab.jpfhfdst13.voertuig;
+package be.vdab.util;
 
 public interface Vervuiler {
     double berekenVervuiling();

@@ -1,6 +1,8 @@
-package be.vdab.jpfhfdst13.voertuig;
+package be.vdab.verwarming;
 
-public class Stookketel implements Vervuiler{
+import be.vdab.util.Vervuiler;
+
+public class Stookketel implements Vervuiler {
     private float CONorm;
 
     public Stookketel(float CONorm) {

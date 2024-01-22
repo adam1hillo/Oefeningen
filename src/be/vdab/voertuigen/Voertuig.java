@@ -1,6 +1,9 @@
-package be.vdab.jpfhfdst13.voertuig;
+package be.vdab.voertuigen;
 
-public abstract class Voertuig implements Privaat, Milieu{
+import be.vdab.util.Milieu;
+import be.vdab.util.Privaat;
+
+public abstract class Voertuig implements Privaat, Milieu {
 
     private String polishouder = "onbepaald";
     private float kostprijs;

@@ -1,6 +1,7 @@
-package be.vdab.jpfhfdst13.voorwerpen;
+package be.vdab.voorwerpen;
 
-public class WoordenBoek extends Boek{
+
+public class WoordenBoek extends Boek {
 
     private String taal;
     private static final float WINSTMARGE = 1.75F;
